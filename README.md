@@ -7,7 +7,8 @@ Aplicación creada en React Native, muestra un listado de cryptomonedas y permit
 2. [Funcionamiento](#funcionamiento)
 3. [Características](#características)
 4. [Contribuciones](#contribuciones)
-5. [Desarrollo](#Desarrollo)
+5. [Características](#características)
+6. [Desarrollo](#Desarrollo)
 
 ## Instalación
 
@@ -34,7 +35,6 @@ La aplicación estará disponible en [http://localhost:19006/].
 
 ## Funcionamiento
 
-Descripción detallada de cómo funciona tu aplicación. Puedes incluir capturas de pantalla, diagramas, o cualquier otro recurso visual que pueda ayudar a entender el flujo de trabajo.
 - Inicialmente está la pantalla incial que muestra un listado de Crypto Monedas con información.
 - Los items de este listado son interactivos, por lo que al seleccionar te llevaran a la pantalla del detalle.
 - Para el detalle se mostrará información detallada de la crypto moneda seleccionada asi como un campo para calcular la misma a la moneda local. (La moneda configurada es el $)
@@ -43,6 +43,14 @@ Descripción detallada de cómo funciona tu aplicación. Puedes incluir capturas
 ## Contribuciones
 
 ¡Contribuciones son bienvenidas! Si encuentras algún error o tienes alguna idea para mejorar la aplicación, por favor crea un issue o envía una pull request.
+
+## Características
+
+**Lenguaje:** React Native.
+**Marco de trabajo:** Expo.
+**Estilos:** La estilización y diseño se realizó de forma genuina.
+**Servicios:** Consumidos a través de Axios.
+**Navegación:** Implementada con react-navigation.
 
 ## Desarrollo
 
